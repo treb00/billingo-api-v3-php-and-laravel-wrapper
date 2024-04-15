@@ -1,5 +1,5 @@
 {
-    "name": "deviddev/billingo-api-v3-wrapper",
+    "name": "treb00/billingo-api-v3-wrapper",
     "description": "This is a simple Laravel wrapper for Billingo (billingo.hu) API V3 SwaggerHUB PHP SDK.",
     "keywords": [
         "laravel",
